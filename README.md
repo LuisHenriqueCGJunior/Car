@@ -45,7 +45,7 @@ Nesta seção estão os materiais, layouts e ideias que serviram como base para 
 * Documentações oficiais
 * Tutoriais e vídeos
 
-*(Adicione aqui os links que você utilizou ao longo do desenvolvimento)*
+...
 
 ---
 
